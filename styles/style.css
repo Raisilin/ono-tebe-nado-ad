@@ -40,7 +40,7 @@
 .address-style {
   font-family: Raleway;
   font-weight: 400;
-  font-style: normal; 
+  font-style: normal;
   font-size: 18px;
   line-height: 24.3px;
   list-style-type: none;
@@ -338,4 +338,3 @@ article {
   height: 48px;
   gap: 48px;
 }
-
