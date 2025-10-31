@@ -39,7 +39,7 @@ button {
   font: inherit;
 }
 
-.overlay{
+.overlay {
   z-index: 0;
   position: absolute;
   width:100%;
